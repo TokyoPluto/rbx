@@ -1,0 +1,64 @@
+{
+    "Main": {
+      "Background": "#FFFFFF",
+      "Header": {
+        "Background": "#3A3A3A",
+        "Foreground": "#FFFFFF",
+        "Logo": "path/to/logo.png",
+        "Title": {
+          "Text": "Synapse X Remake",
+          "Foreground": "#FFFFFF"
+        },
+        "Buttons": {
+          "Exit": {
+            "Background": "#FF0000",
+            "Foreground": "#FFFFFF"
+          },
+          "Minimize": {
+            "Background": "#00FF00",
+            "Foreground": "#FFFFFF"
+          }
+        }
+      },
+      "ScriptBox": {
+        "Background": "#F0F0F0",
+        "Foreground": "#000000",
+        "Border": "#CCCCCC"
+      },
+      "Buttons": {
+        "Execute": {
+          "Background": "#007BFF",
+          "Foreground": "#FFFFFF"
+        },
+        "Clear": {
+          "Background": "#FFCC00",
+          "Foreground": "#000000"
+        },
+        "Open": {
+          "Background": "#28A745",
+          "Foreground": "#FFFFFF"
+        },
+        "ExecuteFile": {
+          "Background": "#17A2B8",
+          "Foreground": "#FFFFFF"
+        },
+        "Save": {
+          "Background": "#FFC107",
+          "Foreground": "#000000"
+        },
+        "Options": {
+          "Background": "#6C757D",
+          "Foreground": "#FFFFFF"
+        },
+        "Attach": {
+          "Background": "#007BFF",
+          "Foreground": "#FFFFFF"
+        },
+        "ScriptHub": {
+          "Background": "#6F42C1",
+          "Foreground": "#FFFFFF"
+        }
+      }
+    }
+  }
+  
